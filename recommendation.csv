@@ -1,0 +1,101 @@
+customer_id,rec_1,rec_2,rec_3
+1,Japanese,Asian,Burgers
+2,Indian,Non-alcoholic Drinks,Asian
+3,Fast Food,Asian,Non-alcoholic Drinks
+4,Indian,Japanese,Asian
+5,Japanese,Healthy Food,Sandwiches
+6,Western,Asian,American
+7,Fast Food,Asian,Burgers
+8,Asian,Non-alcoholic Drinks,American
+9,Indian,Western,Asian
+10,Chinese,Japanese,Desserts
+11,Singaporean,Japanese,Western
+12,Western,Japanese,Indian
+13,Chinese,Singaporean,Western
+14,Asian,Indian,American
+15,Chinese,Fast Food,Non-alcoholic Drinks
+16,Western,Japanese,Asian
+17,Indian,Japanese,Chicken
+18,Western,Asian,Non-alcoholic Drinks
+19,Fast Food,Japanese,Western
+20,Indian,Burgers,Korean
+21,Chinese,Western,Asian
+22,Singaporean,Fast Food,Western
+23,Fast Food,Indian,Japanese
+24,Fast Food,Indian,Western
+25,Indian,Asian,Thai
+26,Singaporean,Indian,Western
+27,Fast Food,Japanese,American
+28,Desserts,Thai,Seafood
+29,Indian,American,Thai
+30,Indian,Japanese,American
+31,Japanese,Asian,American
+32,Western,Japanese,Asian
+33,Non-alcoholic Drinks,Desserts,Burgers
+34,Indian,American,Pizza
+35,Singaporean,Japanese,Asian
+36,Indian,Non-alcoholic Drinks,Asian
+37,Chinese,Non-alcoholic Drinks,Japanese
+38,Non-alcoholic Drinks,American,Thai
+39,Chinese,Indian,Japanese
+40,Fast Food,Western,Asian
+41,Western,Japanese,Burgers
+42,Japanese,Asian,American
+43,Japanese,American,Healthy Food
+44,Indian,Japanese,Asian
+45,Non-alcoholic Drinks,Thai,Desserts
+46,Asian,Non-alcoholic Drinks,American
+47,Fast Food,Western,Non-alcoholic Drinks
+48,Chinese,Asian,Western
+49,Singaporean,Indian,Fast Food
+50,Singaporean,Japanese,Western
+51,Singaporean,Western,Indian
+52,Fast Food,Non-alcoholic Drinks,Burgers
+53,Fast Food,Asian,Indian
+54,Singaporean,Western,Non-alcoholic Drinks
+55,Japanese,American,Thai
+56,Chinese,Western,Japanese
+57,Chinese,Japanese,Healthy Food
+58,Singaporean,Fast Food,American
+59,Western,Japanese,American
+60,Fast Food,Indian,Asian
+61,Non-alcoholic Drinks,Western,American
+62,Fast Food,Japanese,Asian
+63,Non-alcoholic Drinks,Asian,American
+64,Non-alcoholic Drinks,Burgers,Thai
+65,Western,Asian,Indian
+66,Indian,Asian,Burgers
+67,Singaporean,Japanese,Indian
+68,Western,Asian,Healthy Food
+69,Western,Non-alcoholic Drinks,Healthy Food
+70,Singaporean,Fast Food,Asian
+71,Japanese,Asian,Indian
+72,Singaporean,Western,Japanese
+73,Fast Food,Non-alcoholic Drinks,Italian
+74,Chinese,Indian,Non-alcoholic Drinks
+75,Fast Food,Asian,Indian
+76,Fast Food,Japanese,Non-alcoholic Drinks
+77,Western,Japanese,Indian
+78,Non-alcoholic Drinks,Pizza,Chicken
+79,Fast Food,Western,Indian
+80,Indian,Non-alcoholic Drinks,Asian
+81,Fast Food,Western,Asian
+82,Fast Food,Western,Asian
+83,Non-alcoholic Drinks,Chicken,Desserts
+84,Chinese,Indian,Pizza
+85,Asian,Indian,Non-alcoholic Drinks
+86,Japanese,Western,Indian
+87,Fast Food,Western,Healthy Food
+88,Western,Japanese,Non-alcoholic Drinks
+89,Fast Food,Non-alcoholic Drinks,Asian
+90,Indian,Fast Food,Pizza
+91,Indian,Non-alcoholic Drinks,Asian
+92,Japanese,Indian,Non-alcoholic Drinks
+93,Chinese,Western,Asian
+94,Chinese,Indian,Western
+95,Fast Food,Asian,Burgers
+96,Japanese,Western,Asian
+97,Singaporean,Fast Food,Indian
+98,Japanese,Asian,Indian
+99,Japanese,Indian,American
+100,Japanese,Western,Asian
